@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bkmorgan3)](https://github.com/bkmorgan3/github-readme-stats)
 
-  - 🌱 I’m currently learning more about deployment - AWS Amplify, Route 53, and more.  I was interested to dig deeper into this after deploying a small NextJS app that was very easy to get up and running.
+  - 🌱 I’m currently learning more about CI / CD - AWS Amplify, Route 53, and more.  I was interested to dig deeper into this after deploying a small NextJS app that was very easy to get up and running.
 
 
 - ⚡ Fun fact: I play bass in a band in my free time 🎸
