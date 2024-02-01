@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bkmorgan3)](https://github.com/bkmorgan3/github-readme-stats)
 
-  - 🌱 I’m currently learning working on a site for a photographer and am using Sanity CMS to host images and blogs, connecting a React frontend using GraphQL inside Gatsby.
+  - 🌱 I’m currently building a Blog / Photo Gallery using NextJS and the Contentful CMS.
 
 
 - ⚡ Fun fact: I play bass in a band in my free time 🎸
