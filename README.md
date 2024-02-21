@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-#### Hi, Thanks for looking at my repo.  I am just getting started so stay tuned as I build this section up. 
+#### Hi, Thanks for looking at my profile.  I am just getting started so stay tuned as I build this section up. 
 
 - 🔭 I’m currently working on the Volunteer Registration Management System <abbr>VRMS</abbr> at Hack for LA.  Its built on the MERN stack.
 
