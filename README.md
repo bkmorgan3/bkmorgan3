@@ -48,6 +48,7 @@ Featured speaker at Ethiq® Software Engineering Speaker Series: "Headless Brows
 
 ## Connect  📫
 - [LinkedIn](https://www.linkedin.com/in/bkmorgan3/)
+- [Email me](mailto:bkmorgan3@gmail.com)
 
 
 
