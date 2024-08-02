@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
   ## Key Projects and Volunteer Work :electron:
-[Cypress Recorder](https://github.com/KabaLabs/Cypress-Recorder) Co-creator of scenario recorder for the Cypress Testing Framework.  Over 10,000 users.
+[Cypress Recorder](https://github.com/KabaLabs/Cypress-Recorder) Core contributor tp scenario recorder for the Cypress Testing Framework.  Over 10,000 users.
 
 [Volunteer Registration Management System](https://github.com/hackforla/VRMS) A tool used for the engagement, support, and retention of a network of volunteers of Hack for LA.
 
