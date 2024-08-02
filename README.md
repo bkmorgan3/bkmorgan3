@@ -1,4 +1,4 @@
- Hi there 👋
+
 
 <!--
 **bkmorgan3/bkmorgan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,37 @@ Here are some ideas to get you started:
 
 
 
+  👋 Hello and welcome! I'm Brad Morgan a software engineer that thrives on solving complex problems with scalable solutions.  
 
-#### Hi, Thanks for looking at my profile.  I am just getting started so stay tuned as I build this section up. 
+  ## About Me  😎
 
-- 🔭 I’m currently working on the Volunteer Registration Management System <abbr>VRMS</abbr> at Hack for LA.  Its built on the MERN stack.
+  Coming from a strong technical background and a keen eye for detail, I bring a unique combination of technical ability and creative problem solving to each task I approach.   My passion lies in creating simplistic user experiences that not only solve problems but engage users.
 
+  ## Technical Skills  💻
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=bkmorgan3&label=Profile%20views&color=0e75b6&style=flat" alt="bkmorgan3" /> </p>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkmorgan3" alt="bkmorgan3" /> </a></p>
-
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bkmorgan3)](https://github.com/bkmorgan3/github-readme-stats)
-
-  - 🌱 I’m currently building a Blog / Photo Gallery using NextJS and the Contentful CMS.
+   - **Languages**: JavaScript, TypeScript, Ruby
+   - **Frameworks & Libraries**: React, NextJS, NodeJS, Ruby on Rails
+   - **Tools & Platforms**:  GitHub, Vercel, AWS
 
 
-- ⚡ Fun fact: I play bass in a band in my free time 🎸
+  ## Key Projects and Volunteer Work :electron:
+[Volunteer Registration Management System](https://github.com/hackforla/VRMS) A tool used for the engagement, support, and retention of a network of volunteers of Hack for LA.
+
+[Expunge Assist](https://github.com/hackforla/expunge-assist) A digital tool that generates a letter to aid in request of conviction expungement for Californians.
+
+[Angie Bau Photogrpahy](https://github.com/bkmorgan3/AngieBauPhotography) A portfolio site for an LA-based photographer.
+
+## Advocacy 📍
+Featured speaker at Ethiq® Software Engineering Speaker Series: "Headless Browsers & Automated Testing".
+
+## Professional Goals   💼
+ - **Career Development**: Further my career in software development in roles that I can lend my technical skills to create impactful solutions.
+ - **Continuous Learning**:  Dedicated to ongoing development by staying up to date with latest trends while building on fundamentals to advance my development knowledge.
+
+## Connect  📫
+- [Email](bkmorgan3@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bkmorgan3/)
+
+
+
+
