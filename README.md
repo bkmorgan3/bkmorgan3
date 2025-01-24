@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-  👋 Hello and welcome! I'm Brad Morgan a software engineer that thrives on solving complex problems with scalable solutions.  
+  👋 Hello and welcome! I'm Brad, a software engineer that excels at solving problems with scalable solutions.  
 
   ## About Me  😎
 
