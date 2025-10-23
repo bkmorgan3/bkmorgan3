@@ -47,8 +47,8 @@ Featured speaker at Ethiq® Software Engineering Speaker Series: "Headless Brows
  - **Continuous Learning**:  Dedicated to ongoing development by staying up to date with latest trends while building on fundamentals to advance my development knowledge.
 
 ## Connect  📫
+- [My Site](bradmorgan.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/bkmorgan3/)
-- [Email me](mailto:bkmorgan3\@gmail.com)
 
 
 
